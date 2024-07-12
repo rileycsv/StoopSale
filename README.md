@@ -22,10 +22,6 @@ The design of "Chelsea & Lil's Stoop Sale" reflects the loud, fun, cute, and you
 ## Getting Started
 To get started with "Chelsea & Lil's Stoop Sale," simply visit the https://rileyyates1205.wixstudio.io/stoopsale and start exploring!
 
-## Contributing
-We welcome contributions to make "Chelsea & Lil's Stoop Sale" even better! If you have ideas, suggestions, or bug reports, please check out our [Contributing Guide] to learn how you can help.
-
-
 ---
 
 Thank you for checking out "Chelsea & Lil's Stoop Sale"! We hope you enjoy the vibrant and fun experience we've created. Happy shopping!
